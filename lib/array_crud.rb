@@ -54,7 +54,7 @@ end
 
 def retrieve_first_element_from_array(array)
   
-  ["wow", "I", "am", "really", "learning", "arrays!"]
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
   
   array [1]
 
