@@ -62,6 +62,8 @@ end
 
 
 def retrieve_last_element_from_array(array)
+  ["wow", "I", "am", "really", "learning", "arrays!"]
   
+  array [5]
   
 end
